@@ -1,1 +1,12 @@
-# aulaNodeMaisNpm
+# Testando meu primeiro módulo NPM
+- ola(nome):  
+  Essa função imprime uma saudação.
+Como usar?
+```shel
+npm install dh-meumodulo-bruguedes
+```
+```js
+const meuModulo = require('dh-meumodulo-bruguedes')
+const resultado = meuModulo.ola('Meu nome')
+console.log(resultado) // Olá Meu nome, você está usando o pacote criado by Bruno Guedes
+```

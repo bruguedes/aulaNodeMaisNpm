@@ -1,0 +1,19 @@
+{
+  "name": "dh-meumodulo-bruguedes",
+  "version": "1.0.0",
+  "description": "meu primeiro modulo de estudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruguedes/aulaNodeMaisNpm.git"
+  },
+  "author": "Bruno Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruguedes/aulaNodeMaisNpm/issues"
+  },
+  "homepage": "https://github.com/bruguedes/aulaNodeMaisNpm#readme"
+}
